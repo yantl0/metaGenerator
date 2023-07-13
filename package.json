@@ -1,0 +1,21 @@
+{
+  "name": "metagenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "esno index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "esno": "^0.16.3",
+    "fs": "^0.0.1-security"
+  }
+}
